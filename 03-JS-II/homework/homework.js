@@ -1,5 +1,7 @@
 // No cambies los nombres de las funciones.
 
+// prueba
+
 function obtenerMayor(x, y) {
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
